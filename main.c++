@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 
+using namespace std;
 
 int main()
 {
-
-    float valor, valor2, result;
+     float valor, valor2, result;
     int elevar = 0;
     char escolha;
 
