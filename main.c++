@@ -10,7 +10,6 @@ int main()
     int elevar = 0;
     char escolha;
 
-    result = 0.0;
 
     printf("Bem vindo a Calculadora!\n");
     printf("Feito por Felipe de Paula\n\n");
@@ -20,7 +19,6 @@ int main()
     scanf(" %c", &escolha);
 
     system("cls");
-
 
     if (escolha == 'e'){
         printf("Escolha um valor para elevar o primeiro numero: ");
