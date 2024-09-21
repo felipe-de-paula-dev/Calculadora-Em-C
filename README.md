@@ -1,1 +1,1 @@
-Calcualdora na linguagem C
+Calcualdora na linguagem C++
